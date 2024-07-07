@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.headings-container {
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  font-size: 26px;
+}
+
+.headings-container-2 {
+  display: flex;
+}
+
+.usd-para {
+  margin-right: 10px;
+}
+
+.currency-container {
+  border: 2px #00e7ff solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.main-container {
+  margin-top: 0px;
+}
+
+.main-heading {
+  color: #00e7ff;
+  text-align: center;
+}

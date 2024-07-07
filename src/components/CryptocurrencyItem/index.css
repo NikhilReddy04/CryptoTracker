@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.cryptocurrency-item-container {
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cryptocurrency-item-currency-container {
+  display: flex;
+  align-items: center;
+}
+
+.crypto-in-usd {
+  margin-right: 10px;
+}
+
+.crypto-image {
+  width: 20px;
+  margin-right: 5px;
+}

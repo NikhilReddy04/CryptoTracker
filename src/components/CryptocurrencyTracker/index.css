@@ -1,0 +1,9 @@
+.bg-container {
+  background-color: #000000;
+  min-height: 100vh;
+  margin-top: 0px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
